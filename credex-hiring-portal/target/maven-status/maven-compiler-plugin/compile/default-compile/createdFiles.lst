@@ -1,0 +1,10 @@
+org\credex\hiring\portal\serviceImpl\LoginAndRegistrationImpl.class
+org\credex\hiring\portal\repository\LoginRepository.class
+org\credex\hiring\portal\config\SpringMvcDispatcherServletInitializer.class
+org\credex\hiring\portal\config\AppConfig.class
+org\credex\hiring\portal\model\LoggedInUser.class
+org\credex\hiring\portal\controller\LoginRestController.class
+org\credex\hiring\portal\model\HelloWorld.class
+org\credex\hiring\portal\model\LoginInfo.class
+org\credex\hiring\portal\service\LoginAndRegistration.class
+org\credex\hiring\portal\controller\HelloWorldController.class
